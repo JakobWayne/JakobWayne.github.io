@@ -35,3 +35,13 @@ Die Seite benutzt das Theme, das dein Onkel für Dich ausgesucht hat - Du kannst
 ### Support or Contact
 
 Irgendwelche Probleme? [documentation](https://help.github.com/categories/github-pages-basics/) oder [contact support](https://github.com/contact) oder natürlich der Onkel Jürgen helfen gern....
+
+## Posts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
