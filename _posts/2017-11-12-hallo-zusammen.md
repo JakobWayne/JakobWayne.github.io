@@ -1,7 +1,7 @@
 ---
-Title: "Hallo"
-Date: 2017-11-12
-Categories:[cat1, cat2]
+title: "Hallo"
+date: 2017-11-12
+categories:[cat1, cat2]
 ---
 # Hallo
 Hallo an alle, die sich hierher verirrt haben (Wie auch immer...). 
