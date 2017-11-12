@@ -1,37 +1,37 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/JakobWayne/JakobWayne.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Du kannst den  [Editor von GitHub](https://github.com/JakobWayne/JakobWayne.github.io/edit/master/README.md) benutzen, um den Inhalt Deiner Webseite anzupassen.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Wann immer du etwas änderst, wird [Jekyll](https://jekyllrb.com/) dafür sorgen, dass alle Deine Änderungen sehen werden.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown hilft Dir mit einer einfach zu erlernenden Syntax ohne viel Tipparbeit die verschiedensten Formatierungen zu gestalten:
 
 ```markdown
-Syntax highlighted code block
+Code für Programme
 
-# Header 1
-## Header 2
-### Header 3
+# Überschrift 1
+## Überschrift 2
+### Überschrift 3
 
-- Bulleted
-- List
+- Stichpunkt-
+- Listen
 
-1. Numbered
-2. List
+1. Nummerierte
+2. Listen
 
-**Bold** and _Italic_ and `Code` text
+**Fette-** und _Kursive-_ oder `Code-` Schriften
 
-[Link](url) and ![Image](src)
+[Links](url) and ![Bilder](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Mehr Informationen gibts hier: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JakobWayne/JakobWayne.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Die Seite benutzt das Theme, das dein Onkel für Dich ausgesucht hat - Du kannst aber jederzeit ein neues aussuchen [repository settings](https://github.com/JakobWayne/JakobWayne.github.io/settings). Der Name wird in den Einstellungen von Jekyll `_config.yml` gespeichert.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Irgendwelche Probleme? [documentation](https://help.github.com/categories/github-pages-basics/) oder [contact support](https://github.com/contact) oder natürlich der Onkel Jürgen helfen gern....
