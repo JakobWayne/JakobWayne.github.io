@@ -6,7 +6,7 @@ categorie: [cat1, cat2]
 
 # Welche Serien sehe ich?
 
-Nun habe ich ja einen """"Blog"""" und deshalb wil ich euch mal ein paar Sachen von mir erzählen.
+Nun habe ich ja einen """"Blog"""" und deshalb will ich euch mal ein paar Sachen von mir erzählen.
 Am besten fangen wir mal mit den Serien an, die ich mir zur Zeit ansehe.
 
 * Arrow
