@@ -28,17 +28,14 @@ Doch bei all der Vorfreude gibt es auch Punkte, die mich zweifeln lassen, und zw
 *die Story
 
 Zum ersten Punkt:
-
 Steppenwolf hat bestimmt Potenzial, aber ich habe das Gefühl, dass DC das gleiche Problem haben wird, wie Marvel (Bösewichte, ohne Tiefe, die einfach nur besiegt werden)
 
 Zum zweiten Punkt:
-
 In den Trailern habe ich mich doch sehr erschrocken. 
 Vor allem im ersten Trailer fand ich Cyborg hässlich.
 Das hat sich nun mehr oder weniger gelegt, dennoch bin ich skeptisch.
 
 Zum dritten Punkt:
-
 Ich hoffe inigst, dass Warner Brothers sich Mühe mit der Story gegeben hat. 
 Sollte dies nicht der Fall sein, helfen die Stärken, die der Film bestimmt haben wird, nur noch bedingt aus.
 
