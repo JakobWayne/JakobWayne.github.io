@@ -4,6 +4,8 @@ date: 14-11-2017 15-30-00
 categorie: [cat1, cat2]
 ---
 
+#Warum bin ich so auf Justice League
+
 An diesem Donnerstag (16. November 2017)kommt der nächste Film des "DC Extended Universe" in die Kinos.
 Und ich? Ich bin seit Monaten gespannt, was uns Warner Brothers da auftischt.
 Trotz der Tatsache, dass drei der vier Filme (Man of Steel, Batman v Superman, Suicide Squad) eher schlechtere Kritiken bekamen (Rotten Tomatoes score: 55%, 27%, 26%), bin ich doch guter Dinge.
@@ -14,7 +16,7 @@ Steppenwolf ist Heerführer über die Truppen von Apokalypse und greift mit dies
 
 Soweit zur Handlung, jetzt mal zu den Punkten, warum ich gehyped bin:
 
-*Die Gruppe
+-Die Gruppe
 
 Die Gruppe, die Bruce zusammenstellt ist Vorfreude au jeden Fall wert.
 Batman, Wander Woman, Flash, Aquaman und Cyborg erscheinen mir als eine Komination, in der es sowohl bekannte - (Batman, Wonder Woman, Flash), unterschätzte - (Aquaman (Danke dafür Big BAng Theory)) als auch relativ unbekannte  Superhelden (Cyborg) gibt.
@@ -23,9 +25,9 @@ Desweiteren scheinen sich Batman und Aquaman zu verstehen, was betstimmt ebenfal
 
 Doch bei all der Vorfreude gibt es auch Punkte, die mich zweifeln lassen, und zwar:
 
-*der Bösewicht
-*das CGI
-*die Story
+-der Bösewicht
+-das CGI
+-die Story
 
 Zum ersten Punkt:
 Steppenwolf hat bestimmt Potenzial, aber ich habe das Gefühl, dass DC das gleiche Problem haben wird, wie Marvel (Bösewichte, ohne Tiefe, die einfach nur besiegt werden)
