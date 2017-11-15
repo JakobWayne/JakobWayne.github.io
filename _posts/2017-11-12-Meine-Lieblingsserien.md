@@ -1,5 +1,5 @@
 ---
-title: "Welche Serien sehe ich"
+title: "Welche Serien schaue ich?"
 date: 2017-11-12 20:00:00
 categorie: [cat1, cat2]
 ---
