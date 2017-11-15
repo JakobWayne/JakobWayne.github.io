@@ -1,6 +1,6 @@
 ---
 title: "Warum ich auf Justice League so gehyped bin"
-date: 14-11-2017 15-30-00
+date: 14-11-2017 15:30:00
 categorie: [cat1, cat2]
 ---
 
