@@ -4,7 +4,7 @@ date: 14-11-2017 15:30:00
 categorie: [cat1, cat2]
 ---
 
-# Warum bin ich so auf Justice League
+# Warum freue ich mich so auf Justice League?
 
 An diesem Donnerstag (16. November 2017) kommt der nächste Film des "DC Extended Universe" in die Kinos.
 Und ich? Ich bin seit Monaten gespannt, was uns Warner Brothers da auftischt.
