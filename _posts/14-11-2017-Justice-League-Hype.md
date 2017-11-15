@@ -4,7 +4,7 @@ date: 14-11-2017 15-30-00
 categorie: [cat1, cat2]
 ---
 
-#Warum bin ich so auf Justice League
+# Warum bin ich so auf Justice League
 
 An diesem Donnerstag (16. November 2017)kommt der nächste Film des "DC Extended Universe" in die Kinos.
 Und ich? Ich bin seit Monaten gespannt, was uns Warner Brothers da auftischt.
@@ -25,9 +25,11 @@ Desweiteren scheinen sich Batman und Aquaman zu verstehen, was betstimmt ebenfal
 
 Doch bei all der Vorfreude gibt es auch Punkte, die mich zweifeln lassen, und zwar:
 
--der Bösewicht
--das CGI
--die Story
+* der Bösewicht
+
+* das CGI
+
+* die Story
 
 Zum ersten Punkt:
 Steppenwolf hat bestimmt Potenzial, aber ich habe das Gefühl, dass DC das gleiche Problem haben wird, wie Marvel (Bösewichte, ohne Tiefe, die einfach nur besiegt werden)
