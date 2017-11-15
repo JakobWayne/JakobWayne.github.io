@@ -44,7 +44,7 @@ Ich hoffe inigst, dass Warner Brothers sich Mühe mit der Story gegeben hat.
 Sollte dies nicht der Fall sein, helfen die Stärken, die der Film bestimmt haben wird, nur noch bedingt aus.
 
 
-Ich habe nicht den Anspruch, dass dieser Film die ausgereifteste Handlung aller Zeiten hat, aber ich denke nicht, dass es zu viel verlangt ist, eine ansprechende HAndlung zu haben.
+Ich habe nicht den Anspruch, dass dieser Film die ausgereifteste Handlung aller Zeiten hat, aber ich denke nicht, dass es zu viel verlangt ist, eine ansprechende Handlung zu haben.
 
 
 So, dass war´s dann mit diesem Beitrag, es wird aber demnächst einen Post/ ein Review über Justice League geben.
