@@ -32,13 +32,28 @@ Der Prozessor ist der Hisilicon Kirin 950, den man zum Beispiel im Huawei Mate 8
 Dieses Handy kostete zur Einführng 599 Euro (inzwischen kostet noch immer 523 Euro)!
 Außerdem ist eine (wie ich finde) gute Dual-Kamera verbaut, die sich in dem Glasgehäuse sehr gut macht. 
 Der 3000 mAh starke Akku kann durch das mitgelieferte Schnellladenetzteil schnell geladen werden und das Display hat eine Auflösung von 1080x1920 Pixeln.
+Ein Fingerabdrucksensor gibt es ja in neueren Smartphones eigentlich immer, so auch nim Honor 8.
+Ich kann sagen, dass er (mit trockenen Fingern) sehr schnell und zuverlässig ist, wenn die Finger das nicht sind wird es aber schwierig.
+Der Fingerabdruck wird nicht mehr richtig erkannt und wenn braucht er deutlich länger.
 Mehr Details möchte ich hier nicht nennen. 
 Ich kann aber sagen, dass mir kein Bauteil negativ aufgefallen ist
 Außerdem gibt es da noch eine Sache, die ich echt lieben gelernt habe: der Infrarotsensor.
 Nur wenige Samrtphones haben so einen, doch er ist echt nützlich (man kann z.B. den Fernseher Ein- und Ausschalten).
 So, jetzt aber zu Punkt 3.
 
-3.) Das Design
+3.) Die Farbe meines Honor 8 ist blau.
+Welche am besten ist, muss jeder für sich entscheiden.
+Ein Highligt dieses Handys is auf jeden Fall die Rückseite.
+15 Schichten glas sind dort übereinander und sorgen für ´wunderschöne Reflektionen.
+Die Vorderseite ist aber einer der Punkte, der einige (Ich fände es zwar schöner, wenn es nicht so wäre, aber es wäre kein Grund, es nicht zu kaufen) Leute in 2017 stören könnte.
+Die Displayränder sind für dieses Jahr nicht dünn genug, weil die Käufer anscheinend neue Displayverhältnisse, Rundungen und "Notches" haben wollen...
 
-Die Farbe meines Honor 8 ist blau.
-Meiner Meinung nach die perfekt Farbe für
+
+Aber nun zu meinem Fazit:
+
+Nach dem Lesen meines Beitrags könnte man der Meinung sein, ich wäre bezahlt (zumindest, wenn ich einen relevanteren Blog hätte), weil ich nur positive Dinge gesagt habe.
+Ich bin aber nur komplett zufrieden mit diesem Stück Technik und mir fehlt nichts daran.
+Ob man Stereo Lautsprecher oder ähnliches braucht, muss aber jeder selbst entscheiden.
+Aber ich hoffe, ich konnte meine Begeisterung für das Honor 8 begründen.
+
+Tschau!
