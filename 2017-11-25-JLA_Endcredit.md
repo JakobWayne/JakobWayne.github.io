@@ -25,12 +25,12 @@ Es stellt sich aber heraus, dass es ein anderer Glatzköpfiger Mann war und dass
 Nach einem Schnitt sieht man ein kleines Boot mit (soweit ich noch weiß) zwei Menschen darauf, von denen man nur die Silhouetten sieht.
 Doch einer der beiden trägt an seinem Rücken zwei Schwerter.
 Zu diesem Zeitpunkt war mir schon relativ klar, wer das ist und mein Unterkiefer fiel.
-Neben mir hörte ich jemanden aus unserer Gruppe sagen : "Ist das Deadpool?", was mich als Comic-Enthusiasten ein wenig triggerte, doch das war zu dem Zitpunkt nebensächlich.
+Neben mir hörte ich jemanden aus unserer Gruppe sagen : "Ist das Deadpool?", was mich als Comic-Enthusiasten ein wenig triggerte, doch das war zu dem Zeitpunkt nebensächlich.
 Dieser Mann fuhr nun also auf eine Jacht zu, auf der sich Lex Luthor befand.
 Er machte dem Mann, der sich als Deathstroke herausstellte, einen Vorschlag:
 Man solle doch, als Reaktion auf die Justice League, eine eigene Gruppe zusammenstellen.
 
-Warner Brothers hat es geschafft, mir schon jetzt eine Vorfreude auf einen Film zu bescheren.
+Warner Brothers hat es geschafft, mir schon jetzt eine Vorfreude auf einen Film zu bescheren, der noch gar nicht bestätigt wurde.
 Ich hoffe, man sieht diese Gruppe möglichst Zeitnah in einem Film, auch wenn ich nicht weiß, in welchem dies sein soll.
 Ich könnte mir jedoch vorstelle, dass es entweder einen dritten Justice LEagu Film geben könnte, da im zweiten ja relativ sicher Darkseid der Böde sein wird.
 
