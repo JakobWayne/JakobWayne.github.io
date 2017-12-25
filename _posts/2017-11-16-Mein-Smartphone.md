@@ -48,9 +48,7 @@ Ein Highligt dieses Handys is auf jeden Fall die Rückseite.
 Die Vorderseite ist aber einer der Punkte, der einige (Ich fände es zwar schöner, wenn es nicht so wäre, aber es wäre kein Grund, es nicht zu kaufen) Leute in 2017 stören könnte.
 Die Displayränder sind für dieses Jahr nicht dünn genug, weil die Käufer anscheinend neue Displayverhältnisse, Rundungen und "Notches" haben wollen...
 
-#### Update: verwendet dieses Handy mit einer Schutzhülle, wenn ihr ein Smartphone haben wollt, dass Glas ohne Risse hat. 
-#### Mir ist das Handy letztens auch 1-1,5 Metern auf Stein gefallen und jetzt habe ich eine teilweise gesplitterte Rückseite und auch meine Kamera ist davon betroffen.
-#### Wenn ihr mehr darüber erfahren wollt: Ich habe einen Eintrag zu den Fortschritten im Versuch, mein Handy selbstständig zu reparieren.
+#### Update: verwendet dieses Handy mit einer Schutzhülle, wenn ihr ein Smartphone haben wollt, dass Glas ohne Risse hat. Mir ist das Handy letztens auch 1-1,5 Metern auf Stein gefallen und jetzt habe ich eine teilweise gesplitterte Rückseite und auch meine Kamera ist davon betroffen. Wenn ihr mehr darüber erfahren wollt: Ich habe einen Eintrag zu den Fortschritten im Versuch, mein Handy selbstständig zu reparieren.
 
 Aber nun zu meinem Fazit:
 
