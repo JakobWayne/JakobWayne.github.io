@@ -3,7 +3,7 @@ title: Reparatur meines Honor 8
 date: 2017:12:25 15:00:00
 catgories: cat1, cat2
 ---
-#Die Reparatur meines Honor 8
+# Die Reparatur meines Honor 8
 Wer vor kurzem mein Eintrag zu meinem Smartphone gelesen hat, der hat bestimmt auch gelesen, dass ich die Rückseite sehr schön fand. 
 Nun habe ich diesen Eintrag erweitert, und zwar weil mir diese Rückseite nun zu bruch gegangen ist. 
 Natrürlich habe ich mich im Internet über mögliche Firmen informiert, die es reparieren könnten, doch mit Preisen von 70-80€ hat das mich eher abgeschreckt.
