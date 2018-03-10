@@ -19,3 +19,6 @@ Als letztens ein kleines Amazon-Paket bei mir eintraf, war ich nicht mehr zu hal
 Ma nächsten Tag fuhr ich zu einber Handy-reparaur, doch dort konnte man mir nicht weitedrhelfen und ich war inzwischen bereit, dass ding einzuschicken, als mir noch ein letzter Gedanke kam: was wäre, wenn das ich das Displaykabel nicht eingesteckt hatte, als ich es durch das herausschrauben der Schraube ausgesteckt habe. Nun öffnete ich es also zum dritten Mal, und versuchte es einzustecken. Als ein "klak" zu hören war, ware ich guter dinge und als ich auf den Power-Button drückte erstrahlte das Display wieder.
 Schlussendlich kann ich also sagen, dass es eine erfolgreiche Reparatur war, ach wenn ich es mir in unnötig schwer machte. Vielleicht konnte ich euch mit der Geschichte etwas unterhalten oder euch sogar weiterhelfen. 
 Bis demnächst!
+
+Update: Diese Geschichte ist jetzt inzwischen ca. drei Monate vergangen. Bis heute habe ich keinerlei Probleme, bis auf die Tatsache, dass ich das Gefühl habe, Bilder fokusieren weniger gut. Ob das nur Einbildung ist, oder ob ich die Innenseite verdrckt habe, weiß ich nicht, aber ich finde sie liefert immer noch gute Aufnahmen.
+Inzwischen bin ich auch Vorsichtiger geworden und habe immer eine Hülle drum. ;D
